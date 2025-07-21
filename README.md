@@ -26,7 +26,9 @@ Here are some of the certifications I hold:
   <img src="./certs/13.png" alt="Certification 13" width="100" height="100">
   <img src="./certs/14.png" alt="Certification 14" width="100" height="100">
   <img src="./certs/15.png" alt="Certification 15" width="100" height="100">
+  <img src="./certs/17.png" alt="Certification 17" width="100" height="100">
+  <img src="./certs/18.png" alt="Certification 18" width="100" height="100">
+  <img src="./certs/19.png" alt="Certification 19" width="100" height="100">
+  <img src="./certs/20.png" alt="Certification 20" width="100" height="100">
+  <img src="./certs/21.png" alt="Certification 21" width="100" height="100">
 </div>
-
-<!-- Add more certifications as needed -->
-
