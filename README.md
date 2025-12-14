@@ -1,6 +1,13 @@
 # Hi all there!
 
-Welcome to my GitHub profile! I am a **DevOps/SRE professional** with a passion for automation, cloud infrastructure, and continuous improvement. I am particularly interested in **FinOps, automating processes, security, containerization, and cloud technologies**.
+Welcome to my GitHub profile! I am an **SRE** particularly interested in all things:
+- DevOps
+- Platform Engineering
+- Product Engineering
+- Site Reliability Engineering (SRE)
+- DevSecOps, Cloud and Infrastructure Security
+- Kubernetes and Containerization
+- FinOps and Cloud Cost Optimization
 
 ## Connect with Me
 
