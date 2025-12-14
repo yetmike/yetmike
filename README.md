@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a **DevOps/SRE professional** with a passion 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iammichaelt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yetmike/)
 
 ## Certifications
 
