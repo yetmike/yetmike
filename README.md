@@ -1,6 +1,4 @@
-# Hi!
-
-Welcome to my GitHub profile! I am an **SRE** particularly interested in all things:
+I am an **SRE** particularly interested in all things:
 - DevOps
 - Platform Engineering
 - Product Engineering
