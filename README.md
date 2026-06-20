@@ -1,11 +1,4 @@
-I am an **SRE** particularly interested in all things:
-- DevOps
-- Platform Engineering
-- Product Engineering
-- Site Reliability Engineering (SRE)
-- DevSecOps, Cloud and Infrastructure Security
-- Kubernetes and Containerization
-- FinOps and Cloud Cost Optimization
+**SRE**
 
 ## Connect with Me
 
