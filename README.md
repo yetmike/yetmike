@@ -1,4 +1,4 @@
-**SRE**
+SRE / DevOps / Platform Engineering
 
 ## Connect with Me
 
